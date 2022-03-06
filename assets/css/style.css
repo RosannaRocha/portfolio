@@ -11,7 +11,7 @@ body {
 }
 
 h1 {
-    font-family: 'Pacifico', cursive;
+    font-family: 'Shrikhand', cursive;
     font-size: 40px;
     color: #FBF0DA;
 }
@@ -155,6 +155,20 @@ header nav ul li {
     font-size: 5vw;
     padding: 20px;
 }
+
+/* Styling the Resume section */
+.resume-img {
+    justify-content: center;
+    display: flex;
+}
+
+.resume img {
+    max-width: 70%;
+    min-width: 0;
+    margin: 25px;
+
+}
+
 
 /* Styling the footer */
 footer {
