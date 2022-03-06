@@ -11,8 +11,16 @@ body {
 }
 
 h1 {
-    font-family: Brush Script MT, Lucida Handwriting, cursive;
+    font-family: 'Pacifico', cursive;
     font-size: 40px;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+}
+
+a {
+    font-family: 'Poppins', sans-serif;
 }
 
 /* Styling the header */
