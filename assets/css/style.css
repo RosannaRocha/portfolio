@@ -59,7 +59,7 @@ header nav ul li {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    height: 250px;
+    height: 300px;
 }
 
 .hero h1 {
@@ -74,6 +74,11 @@ header nav ul li {
     border-bottom: 2px solid #DFE7FD;
     margin: 40px;
     color: #FBF0DA;
+    padding: 20px;
+}
+
+.bio h1 {
+    font-size: 5vw;
 }
 
 .bio-content {
@@ -81,8 +86,7 @@ header nav ul li {
 }
 
 .bio-content img {
-    width: 80%;
-    margin: 20px;
+    max-width: 100%;
 }
 
 .bio-content p {
@@ -91,3 +95,13 @@ header nav ul li {
 }
 
 /* Styling the Projects section */
+.projects {
+    border-bottom: 2px solid #DFE7FD;
+    margin: 40px;
+    color: #FBF0DA;
+    padding: 20px;
+}
+
+.projects h1 {
+    font-size: 5vw;
+}
