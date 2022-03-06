@@ -143,6 +143,19 @@ header nav ul li {
     margin: 25px;
 }
 
+/* Styling the Resume section */
+.resume {
+    border-bottom: 2px solid #DFE7FD;
+    margin: 40px;
+    padding-bottom: 25px;
+    padding-right: 30px;
+}
+
+.resume h1 {
+    font-size: 5vw;
+    padding: 20px;
+}
+
 /* Styling the footer */
 footer {
     background-color: #DFE7FD;
