@@ -13,14 +13,17 @@ body {
 h1 {
     font-family: 'Pacifico', cursive;
     font-size: 40px;
+    color: #FBF0DA;
 }
 
 p {
     font-family: 'Poppins', sans-serif;
+    color: #FBF0DA;
 }
 
 a {
     font-family: 'Poppins', sans-serif;
+    color: #9C89B8;
 }
 
 /* Styling the header */
@@ -30,6 +33,10 @@ header {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+}
+
+header h1 {
+    color: #9C89B8;
 }
 
 header nav {
@@ -51,7 +58,6 @@ header nav ul li a {
 
 header a {
     text-decoration: none;
-    color: #9C89B8;
     font-weight: bold;
 }
 
@@ -71,7 +77,7 @@ header nav ul li {
 }
 
 .hero h1 {
-    font-size: 60px;
+    font-size: 50px;
     text-align: center;
     color: #DFE7FD;
     padding-top: 100px;
@@ -81,7 +87,6 @@ header nav ul li {
 .bio {
     border-bottom: 2px solid #DFE7FD;
     margin: 40px;
-    color: #FBF0DA;
     padding: 20px;
 }
 
@@ -107,7 +112,6 @@ header nav ul li {
 .projectsection {
     border-bottom: 2px solid #DFE7FD;
     margin: 40px;
-    color: #FBF0DA;
     padding-bottom: 25px;
 }
 
@@ -163,7 +167,6 @@ footer nav ul li a {
 
 footer a {
     text-decoration: none;
-    color: #9C89B8;
     font-weight: bold;
 }
 
