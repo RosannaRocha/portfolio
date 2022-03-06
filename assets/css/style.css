@@ -12,6 +12,7 @@ body {
 
 h1 {
     font-family: Brush Script MT, cursive;
+    font-size: 40px;
 }
 
 /* Styling the header */
@@ -21,10 +22,6 @@ header {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-}
-
-header h1 {
-    font-size: 40px;
 }
 
 header nav {
@@ -47,6 +44,7 @@ header nav ul li a {
 header a {
     text-decoration: none;
     color: #9C89B8;
+    font-weight: bold;
 }
 
 header nav ul li {
@@ -71,7 +69,25 @@ header nav ul li {
     padding-top: 100px;
 }
 
-/* Styling the Bio */
+/* Styling the Bio section */
 .bio {
+    border-bottom: 2px solid #DFE7FD;
+    margin: 40px;
     color: #FBF0DA;
 }
+
+.bio-content {
+    display: flex;
+}
+
+.bio-content img {
+    width: 80%;
+    margin: 20px;
+}
+
+.bio-content p {
+    margin: 30px;
+    font-size: 17px;
+}
+
+/* Styling the Projects section */
