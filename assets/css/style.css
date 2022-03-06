@@ -7,7 +7,7 @@
 
 body {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #EDDCD2;
+    background-color: #9C89B8;
 }
 
 h1 {
@@ -17,7 +17,7 @@ h1 {
 /* Styling the header */
 header {
     padding: 20px 40px;
-    background-color: #BCD4E6;
+    background-color: #DFE7FD;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -46,7 +46,7 @@ header nav ul li a {
 
 header a {
     text-decoration: none;
-    color: #D6AEBA;
+    color: #9C89B8;
 }
 
 header nav ul li {
@@ -67,6 +67,11 @@ header nav ul li {
 .hero h1 {
     font-size: 50px;
     text-align: center;
-    color: #BCD4E6;
+    color: #DFE7FD;
     padding-top: 100px;
+}
+
+/* Styling the Bio */
+.bio {
+    color: #FBF0DA;
 }
