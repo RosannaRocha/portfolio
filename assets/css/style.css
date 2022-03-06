@@ -68,7 +68,7 @@ header nav ul li {
 /* Styling the hero */
 .hero {
     background-image: url("../images/hero-bg.png");
-    background-size: cover;
+    background-size: contain;
     background-position: center;
     display: flex;
     justify-content: center;
