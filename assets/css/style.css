@@ -16,6 +16,10 @@ h1 {
     color: #FBF0DA;
 }
 
+h2 {
+    color: #FBF0DA;
+}
+
 p {
     font-family: 'Poppins', sans-serif;
     color: #FBF0DA;
@@ -179,6 +183,15 @@ header nav ul li {
 .contact h1 {
     font-size: 5vw;
     padding: 20px;
+}
+
+.contact-info {
+    display: flex;
+    justify-content: center;
+}
+
+.contact a {
+    color: #DFE7FD;
 }
 
 /* Styling the footer */
