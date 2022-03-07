@@ -21,3 +21,6 @@ THEN I am taken to that deployed application<br/>
 WHEN I resize the page or view the site on various screens and devices<br/>
 THEN I am presented with a responsive layout that adapts to my viewport<br/>
 <br/><br/>
+
+<h4>Deployment Link:</h4>
+https://rosannarocha.github.io/portfolio/
