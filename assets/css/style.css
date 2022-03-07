@@ -117,7 +117,6 @@ header nav ul li {
     border-bottom: 2px solid #DFE7FD;
     margin: 40px;
     padding-bottom: 25px;
-    padding-right: 30px;
 }
 
 .projectsection h1 {
@@ -127,6 +126,7 @@ header nav ul li {
 
 .projectsection h2 {
     color: #DFE7FD;
+    font-size: 3.5vw;
 }
 
 .projects {
@@ -143,12 +143,15 @@ header nav ul li {
     justify-content: center;
 }
 
+.mainproject h2 {
+    text-align: center;
+}
+
 .mainproject img {
-    max-width: 90%;
-    display: flex;
+    width: 100%;
     border: 2px solid #FBF0DA;
-    min-width: 0;
-    margin: 25px;
+    margin-bottom: 50px;
+    margin-top: 20px;
 }
 
 .otherprojects {
