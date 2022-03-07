@@ -180,6 +180,16 @@ header nav ul li {
     padding-right: 30px;
 }
 
+.contact p {
+    text-align: center;
+    line-height: 2;
+}
+
+.contact h2 {
+    text-align: center;
+    line-height: 2;
+}
+
 .contact h1 {
     font-size: 5vw;
     padding: 20px;
