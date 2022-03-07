@@ -139,6 +139,10 @@ header nav ul li {
     filter: blur(4px);
 }
 
+.mainproject div {
+    justify-content: center;
+}
+
 .mainproject img {
     max-width: 90%;
     display: flex;
@@ -159,7 +163,7 @@ header nav ul li {
 }
 
 .coderefactor img {
-    max-height: 60%;
+    width: 90%;
     border: 2px solid #FBF0DA;
     min-height: 0;
     margin: 25px;
@@ -167,7 +171,7 @@ header nav ul li {
 }
 
 .pirateprep img {
-    max-height: 60%;
+    width: 90%;
     border: 2px solid #FBF0DA;
     min-height: 0;
     margin: 25px;
