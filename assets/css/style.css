@@ -150,22 +150,28 @@ header nav ul li {
 .otherprojects {
     display: flex;
     min-height: 0;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
 }
 
+.otherprojects div {
+    width: 100%;
+    text-align: center;
+}
 
 .coderefactor img {
-    max-height: 250px;
+    max-height: 60%;
     border: 2px solid #FBF0DA;
     min-height: 0;
     margin: 25px;
+    max-height: 275px;
 }
 
 .pirateprep img {
-    max-height: 250px;
+    max-height: 60%;
     border: 2px solid #FBF0DA;
     min-height: 0;
     margin: 25px;
+    max-height: 275px;
 }
 
 /* Styling the Resume section */
