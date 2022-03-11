@@ -26,4 +26,4 @@ THEN I am presented with a responsive layout that adapts to my viewport<br/>
 http://www.rosannarocha.com/
 
 <br/><br/>
-<img src="assets/images/screenshot.jpg">
+<img src="assets/images/screenshot_.jpg">
