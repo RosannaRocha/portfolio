@@ -23,7 +23,7 @@ THEN I am presented with a responsive layout that adapts to my viewport<br/>
 <br/><br/>
 
 <h4>Deployment Link:</h4>
-https://rosannarocha.github.io/portfolio/
+http://www.rosannarocha.com/
 
 <br/><br/>
 <img src="assets/images/screenshot.jpg">
