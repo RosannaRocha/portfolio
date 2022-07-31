@@ -7,40 +7,40 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #9C89B8;
+    background-color: #FAF5F0;
 }
 
 h1 {
     font-family: 'Shrikhand', cursive;
     font-size: 40px;
-    color: #FBF0DA;
+    color: #D6AEBA;
 }
 
 h2 {
-    color: #FBF0DA;
+    color: #D6AEBA;
 }
 
 p {
     font-family: 'Poppins', sans-serif;
-    color: #FBF0DA;
+    color: #111F32;
 }
 
 a {
     font-family: 'Poppins', sans-serif;
-    color: #9C89B8;
+    color: #6A7152;
 }
 
 /* Styling the header */
 header {
     padding: 20px 40px;
-    background-color: #DFE7FD;
+    background-color: #FAF5F0;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
 }
 
 header h1 {
-    color: #9C89B8;
+    color: #D6AEBA;
 }
 
 header nav {
@@ -83,13 +83,13 @@ header nav ul li {
 .hero h1 {
     font-size: 50px;
     text-align: center;
-    color: #DFE7FD;
+    color: #111F32;
     padding-top: 100px;
 }
 
 /* Styling the Bio section */
 .bio {
-    border-bottom: 2px solid #DFE7FD;
+    border-bottom: 2px solid #C8D5B9;
     margin: 40px;
     padding: 20px;
 }
@@ -114,7 +114,7 @@ header nav ul li {
 
 /* Styling the Projects section */
 .projectsection {
-    border-bottom: 2px solid #DFE7FD;
+    border-bottom: 2px solid #C8D5B9;
     margin: 40px;
     padding-bottom: 25px;
 }
@@ -125,7 +125,7 @@ header nav ul li {
 }
 
 .projectsection h2 {
-    color: #DFE7FD;
+    color: #6A7152;
     font-size: 3.5vw;
 }
 
@@ -167,7 +167,7 @@ header nav ul li {
 
 .coderefactor img {
     width: 90%;
-    border: 2px solid #FBF0DA;
+    border: 2px solid #C8D5B9;
     min-height: 0;
     margin: 25px;
     max-height: 275px;
@@ -175,7 +175,7 @@ header nav ul li {
 
 .pirateprep img {
     width: 90%;
-    border: 2px solid #FBF0DA;
+    border: 2px solid #C8D5B9;
     min-height: 0;
     margin: 25px;
     max-height: 275px;
@@ -183,7 +183,7 @@ header nav ul li {
 
 /* Styling the Resume section */
 .resume {
-    border-bottom: 2px solid #DFE7FD;
+    border-bottom: 2px solid #C8D5B9;
     margin: 40px;
     padding-bottom: 25px;
     padding-right: 30px;
@@ -208,7 +208,7 @@ header nav ul li {
 
 /* Styling the Contact section */
 .contact {
-    border-bottom: 2px solid #DFE7FD;
+    border-bottom: 2px solid #C8D5B9;
     margin: 40px;
     padding-bottom: 25px;
     padding-right: 30px;
@@ -235,12 +235,12 @@ header nav ul li {
 }
 
 .contact a {
-    color: #DFE7FD;
+    color: #6A7152;
 }
 
 /* Styling the footer */
 footer {
-    background-color: #DFE7FD;
+    background-color: #FAF5F0;
     display: flex;
     justify-content: space-between
 }
@@ -283,5 +283,5 @@ footer nav ul li {
 .homebutton a {
     font-family: 'Shrikhand', cursive;
     font-size: 40px;
-    color: #9C89B8;
+    color: #D6AEBA;
 }
