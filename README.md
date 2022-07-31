@@ -2,7 +2,7 @@
 
 <h3>Rosanna Rocha</h3> 
 
-<p>Acceptance Criteria: </p>
+<p>User Story: </p>
 GIVEN I need to sample a potential employee's previous work <br/>
 WHEN I load their portfolio<br/>
 THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them<br/>
