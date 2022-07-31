@@ -1,12 +1,8 @@
-<h2>Module 2 - Challenge 2</h2>
-Focus: Advanced CSS <br/>
-Challenge: Portfolio<br/>
+<h2>Resume and Portfolio Site</h2>
 
-<h3>Identifying Information</h3> 
-Author: Rosanna Rocha<br/>
-Re: UCF Coding Bootcamp <br/>
+<h3>Rosanna Rocha</h3> 
 
-<h3>Acceptance Criteria: </h3>
+<p>Acceptance Criteria: </p>
 GIVEN I need to sample a potential employee's previous work <br/>
 WHEN I load their portfolio<br/>
 THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them<br/>
