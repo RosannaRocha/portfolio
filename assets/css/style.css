@@ -238,6 +238,10 @@ header nav ul li {
     color: #6A7152;
 }
 
+.homebutton {
+    padding: 25px;
+}
+
 /* Styling the footer */
 footer {
     background-color: #FAF5F0;
@@ -246,7 +250,7 @@ footer {
 }
 
 footer nav {
-    margin: 10px 0;
+    margin: 10px;
     justify-content: flex-end; 
 }
 
