@@ -71,13 +71,13 @@ header nav ul li {
 
 /* Styling the hero */
 .hero {
-    background-image: url("../images/hero-bg.png");
+    background-image: url("../images/floral_banner.png");
     background-size: contain;
     background-position: center;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    height: 300px;
+    height: 200px;
 }
 
 .hero h1 {
