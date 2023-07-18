@@ -106,7 +106,7 @@ header nav ul li {
 .welcome_cnt img {
     max-width: 65%;
     padding-left: 10px;
-    justify-content: flex-end;
+    align
 }
 
 .welcome p {
