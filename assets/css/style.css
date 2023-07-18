@@ -89,25 +89,27 @@ header nav ul li {
 }
 
 /* Styling the Bio section */
-.bio {
+.welcome {
     border-bottom: 2px solid #C8D5B9;
     margin: 40px;
     padding: 20px;
 }
 
-.bio h1 {
+.welcome h1 {
     font-size: 5vw;
 }
 
-.bio-content {
+.welcome_cnt {
     display: flex;
 }
 
-.bio-content img {
-    max-width: 100%;
+.welcome_cnt img {
+    max-width: 65%;
+    padding-left: 10px;
+    justify-content: flex-end;
 }
 
-.bio-content p {
+.welcome p {
     margin: 30px;
     font-size: 18px;
     line-height: 2;
